@@ -1,0 +1,5 @@
+//queue data structure - handles data in the order they entered - First In, First Out
+//Properties of a queue
+//1. _oldestIndex
+//2. _newestIndex
+//3. _storage
